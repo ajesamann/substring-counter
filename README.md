@@ -12,3 +12,5 @@ GOAL - Create a small web application that will count the number of occurrences 
 [x] - Validate the form.
 [x] - Add option to show capital letters as their own seperate character.
 [x] - Add option to include/exclude spaces.
+
+View this project live here! https://substring-counter.herokuapp.com/
